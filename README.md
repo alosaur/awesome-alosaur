@@ -1,2 +1,2 @@
-# awesome-alosaur
-A curated list of Alosaur resources. 
+# Awesome-alosaur
+A curated list of Alosaur resources.
