@@ -4,3 +4,4 @@ A curated list of Alosaur resources.
 ### Tutorials
 
 - [Create a Deno Rest API: A promising start with Alosaur and TypeORM](https://dev.to/hugoblanc/create-a-deno-rest-api-a-promising-start-with-alosaur-and-typeorm-n28) on dev.to
+- [Building Our Own Blog Using New Technologies: Deno with Alosaur](https://medium.com/javascript-in-plain-english/build-your-own-blog-with-deno-62c9909c69ce)
